@@ -9,6 +9,6 @@ public class CreateCustomerTest {
 	public void createCustomerTest()
 	{
 		System.out.println("customer created");
-		System.out.println("customer not created");
+		
 	}
 }
